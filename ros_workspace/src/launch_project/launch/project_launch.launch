@@ -1,0 +1,6 @@
+<launch>
+  
+  <!-- Start gelsight_demo node on the local machine -->
+  <node name="gelsight_demo_node" pkg="gelsight_demo" type="gelsight_demo_node.py" output="screen" />
+
+</launch>
